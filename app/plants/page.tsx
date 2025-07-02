@@ -1,4 +1,3 @@
-
 import { plants } from "@/data/plant";
 import { PlantCard } from "@/components/PlantCard";
 
